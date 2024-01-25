@@ -28,7 +28,18 @@
 <em><font color=red>（概括）</font></em> To wrap it up， as an ancient art form, music are a valuable assets which preserve not only different cultural relics but also witness the history of aesthetic culture.<em><font color=red>（结语）</font></em> It has long been an indispensable part of human civilization. Let us enjoy those wonderful creations folks
 
 ### gpt-generated and adopted by me
-  
+
+#### 绪论
+<em><font color=red>（topic）</font></em> Many believe that music is good way of bringing people of cultures and ages together. <em><font color=red>（My opinion）</font></em> And i agree with the opinion. Music has a unique ability to transcend cultural and generational boundaries, fostering a sense of unity and shared experience.
+
+#### 本论1
+ 
+ <em><font color=red>（Reason 1）</font></em> TO begin with, Music has the power of evoke emotions, and emotions are something that everyone experiences, regardless of age or cultural background.  <em><font color=red>（一般性陈述）</font></em> The sadness， excitement， nostalgia provoked by music are shared emotional experience that transcends difference therefore creating a universal language connecting people of different cultures and ages. Also, When people from different cultures share their music, they share a part of their identity and heritage, promoting understanding and appreciation.  <em><font color=red>（举例）</font></em> For example，music brings people together at concerts, festival, and other events. These gathering create a sense of community where individuals, regardless of age and cultural background, can come together to enjoy a shared passion. This communal experience helps break down barriers and build connections.
+
+
+ #### 本论2
+
+  <em><font color=red>（Reason 2）</font></em>On top of that, music often has a timeless quality that allows it to be appreciated across generations.  <em><font color=yellow>(剩下参考上篇相同部分）</font></em>
 
 
 

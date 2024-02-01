@@ -4,6 +4,8 @@
 
 Discuss both these views and give your own opinion.
 
+<em><font color=yellow>题型： both views</font></em>
+
 ## Body
 ### me-writing
 There are diverse perspectives on the most important environment problem and here is a brief introduction.  

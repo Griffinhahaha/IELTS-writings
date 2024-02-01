@@ -2,7 +2,8 @@
 
 **Some people Say that music is good way of bringing people of different cultures and ages together.**  
 **To what extent do you agree with or disagree with this opinion?**
-<em><font color=red>（Agree/disagree 类型）</font></em>
+
+<em><font color=yellow>题型： agree/disagree</font></em>
 
 ## Body
 ### me-writing

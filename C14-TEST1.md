@@ -3,7 +3,9 @@
 **Some people believe that is best to accept a bad situation, such as an unsatisfactory job or shortage of money. others argue that it is better to try and improve such situations.**  
 **Discuss both these views and give your own opinion**  
 
-Give reason for your answer and include any relevant examples form your own knowledge or experience.
+Give reason for your answer and include any relevant examples form your own knowledge or experience.  
+
+<em><font color=yellow>题型： both views</font></em>
 
 ## Body
 
